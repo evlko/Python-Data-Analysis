@@ -1,0 +1,9 @@
+serve,surface,result,count
+1,clay,win,1090
+1,clay,lose,171
+1,nonclay,win,2747
+1,nonclay,lose,446
+0,clay,win,570
+0,clay,lose,692
+0,nonclay,win,911
+0,nonclay,lose,2269
